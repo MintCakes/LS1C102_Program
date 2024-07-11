@@ -1,0 +1,4 @@
+这是一个基于龙芯1C102开发板的物联网项目
+Host，NodeOne，NodeTwo，NodeThree分别对应一个开发板，共计4块
+使用了ZigBee模块实现单片机无线通信
+ESP8266模块使用Arduino开发，实现数据上传至云平台
